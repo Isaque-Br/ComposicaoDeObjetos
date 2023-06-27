@@ -1,2 +1,3 @@
 # ComposicaoDeObjetos
 Usando objetos, enum, instanciando class...
+Estrutura repetitiva, condicional.
